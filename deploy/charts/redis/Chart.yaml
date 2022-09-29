@@ -1,0 +1,13 @@
+apiVersion: v2
+appVersion: 6.0.8.9
+description: A Helm chart for Redis.
+home: https://redis.io/
+icon: https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/2880px-Redis_Logo.svg.png
+keywords:
+- redis
+- database
+name: redis
+sources:
+- https://github.com/bitnami/bitnami-docker-redis
+type: application
+version: 0.1.1
